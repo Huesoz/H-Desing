@@ -1,0 +1,83 @@
+*{ margin: 0; padding: 0; list-style:none; text-decoration: crimson; background-color:beige;}
+
+.wrapper{
+    width: 1280px;
+    margin: auto;
+}
+
+body{
+    width:100%;
+}
+
+nav{
+    width: 100%;
+    border-bottom: solid 5px black;
+}
+header{
+}
+
+h1{
+    width: 50px;
+    height: 50px;
+    background-image: url(../Imagenes/HD.png);
+    background-size: cover;
+    background-position:center;
+    text-indent: -500px;
+    }
+
+main{
+
+
+}
+
+main img{width: 100%;
+margin 0 500px;}
+
+
+
+section img{width: 100px;
+}
+
+h1p{
+    width: 100px;
+    height: 100px;
+    background-image: url(../Imagenes/brochu.jpg);
+    background-size: cover;
+    background-position: center;
+    text-indent: -500px;
+}
+
+section{
+    clear: both;
+    width: 50%;
+    margin: 50px 25px;
+    aspec-ratio: 1;
+    float: none;
+    overflow: hidden;
+    display: flex;
+}
+
+section2{
+    clear: both;
+    width: 28%;
+    margin: 2%;
+    overflow: hidden;
+    aspec-ratio: 1;
+    float: none;
+}
+
+section2 img{width: 100px;}
+
+footer{
+}
+
+ol{
+    display: flex;
+    position: absolute;
+    margin: 160px;
+}
+
+a{ color: black;
+    text-align: 
+    
+}
